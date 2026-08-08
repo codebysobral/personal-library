@@ -23,13 +23,11 @@ nation.
 - A classic software engineering book that presents practical techniques for 
 writing better, more maintainable code and improving problem-solving skills.
 
-### Design Patterns: Elements of Reusable Object-Oriented Software 
-### — Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides
+### Design Patterns: Elements of Reusable Object-Oriented Software — Erich Gamma, Richard Helm, Ralph Johnson & John Vlissides
 - A foundational computer science book that explains common object-oriented 
 design patterns used to create flexible and reusable software.
 
-### Introduction to Algorithms” 
-### — Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein
+### Introduction to Algorithms — Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest & Clifford Stein
 - A comprehensive textbook covering fundamental algorithms, data structures, 
 sorting, graph algorithms, and algorithm analysis.
 
